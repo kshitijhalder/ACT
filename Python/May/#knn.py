@@ -1,3 +1,11 @@
+"""
+KNN - K Nearest Neighbors Algorithm
+        - It is a simple, easy-to-implement supervised machine learning algorithm that can be 
+        used to solve both classification and regression problems. 
+        - It is a non-parametric method used for classification and regression.
+        
+Date : 25-05-2024
+"""
 import os
 import pandas as pd
 from sklearn.model_selection import train_test_split
