@@ -1,0 +1,7 @@
+Ive set up the widgets  times I want to see on my Desktop several times 
+After the Mac mini goes to sleep they disappear If I try to reset them again 
+the space that was occupied by the disappeared widgets is blocked from adding new widgets 
+so it seems that theyre still there but not visible Im running Sonoma  on a  
+Mac mini M Pro Any ideas who I can get the widgets to display on the Desktop at all times 
+
+ReTitled By Moderator

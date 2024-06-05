@@ -1,0 +1,3 @@
+Name Dhara, Yamini, Mahendl, Kshitij, Het, Rishi, Abhay, Eshan, Rajesh, Rahul, Krishna, Kevin, Maneet, Aditya, Akshay
+Marks 90, 85, 82, 80, 78, 46, 38, 36, 32, 21, 17, 15, 14, 12, 7
+Attendance 100%, 90%, 80%, 70%, 68.90%, 50%, 40%, 30%, 20%, 10%, 0%, 100%, 100%, 20%, 30%
