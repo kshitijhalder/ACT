@@ -15,7 +15,7 @@ os.system('clear')
 a = input("Enter a string: ")
 b = input("Enter another string: ")
 
-"""
+
 # 1.\\ Prints the string 3 times
 print(a*3)  
 
@@ -34,7 +34,7 @@ print(a[-1])
 
 # 6.\\ Prints the characters from 3rd to 5th
 print(a[2:5])
-"""
+
 # 7.\\ Prints the string in reverse
 print("Reverse",a[::-1])
 
