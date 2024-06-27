@@ -3,7 +3,7 @@
 # Source: https://www.youtube.com/watch?v=Z1N9JzNax2k&list=WL&index=3&t=1142s
 
 # Import necessary modules
-from PySide6 import  QtWidgets
+from PySide6 import QtWidgets
 import sys
 
 # Create a new instance of the QApplication class. This is required for any GUI application.

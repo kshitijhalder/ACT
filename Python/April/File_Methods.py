@@ -9,6 +9,8 @@ File Methods:
 7. close(): Closes the file.
 8. seek(offset): Moves the file pointer to the specified offset.
 9. tell(): Returns the current position of the file pointer.
+10. dump(): Writes the contents of the file to the buffer.      # import pickle
+11. load(): Loads the contents of the buffer into the file.     # import pickle
 
 File Attributes:
 1. name: The name of the file.
@@ -38,3 +40,8 @@ def write_counts_to_file(keyword_counts, output_file_path):
             if count > 0:
                 print(f"{kw}: {count}")
                 file.write(f"{kw}: {count}\n")
+                
+import pickle
+
+pickle.dump([1, 2, 3, 4, 5], open("Python/April/file4.txt", "wb"))
+print(pickle.load(open("Python/April/file4.txt", "rb")))
