@@ -28,5 +28,3 @@ print(set1)
 input()
 set1.clear()    #Removes all the elements from the set
 print(set1)
-
-

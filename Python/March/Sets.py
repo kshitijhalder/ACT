@@ -34,3 +34,5 @@ print(set1)
 input()
 set1.pop()    #Removes the first element
 print(set1)
+set2 = set()  #Empty set
+print(type(set2))

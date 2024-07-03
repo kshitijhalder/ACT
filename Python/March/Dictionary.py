@@ -1,6 +1,6 @@
 """
 Dictionary - 
-    - A dictionary is a collection which is unordered, changeable and indexed.
+    - A dictionary is a collection which is unordered, mutable, and indexed.
     - In Python dictionaries are written with curly brackets, and they have keys and values.
     - Function:
         - clear()    - Removes all the elements from the dictionary
