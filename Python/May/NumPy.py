@@ -173,7 +173,8 @@ print(arr17)
 # Syntax: numpy.split(ary, indices_or_sections, axis=0)
 arr18 = np.array([1, 2, 3, 4, 5, 6])
 print("\nSplit array:")
-print(np.split(arr18, 3))
+print(np.split(arr18, 6))
+print(np.split(arr18, [2, 4]))
 
 # Where     
 # Syntax: numpy.where(condition[, x, y])
