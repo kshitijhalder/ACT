@@ -10,7 +10,7 @@ Date : 1.05.2024                    [UPDATED]
 Date : 8.05.2024                    [UPDATED]
 """
 import os
-import numpy as np      #type: ignore
+import numpy as np      
 
 os.system('clear') 
 # Syntax: numpy.array(object, shape, dtype=None, copy=True, order='K', subok=False, ndmin=0)
