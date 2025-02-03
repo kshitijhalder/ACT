@@ -58,5 +58,7 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "python.analysis.typeCheckingMode": "basic",
   "terminal.integrated.fontSize": 17,
-  "github.copilot.advanced": {}
+  "github.copilot.advanced": {},
+  "python.languageServer": "Default",
+  "cmake.sourceDirectory": "/Users/kshitijhalder/Desktop/ACT/tensorflow/tensorflow/core/example"
 }
