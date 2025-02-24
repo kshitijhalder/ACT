@@ -60,5 +60,6 @@
   "terminal.integrated.fontSize": 17,
   "github.copilot.advanced": {},
   "python.languageServer": "Default",
-  "cmake.sourceDirectory": "/Users/kshitijhalder/Desktop/ACT/tensorflow/tensorflow/core/example"
+  "cmake.sourceDirectory": "/Users/kshitijhalder/Desktop/ACT/tensorflow/tensorflow/core/example",
+  "dotnet.defaultSolution": "HelloWorld.sln"
 }
